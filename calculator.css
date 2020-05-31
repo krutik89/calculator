@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    font-size: 50px;
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+    
+}
+input{
+    font-size: 40px;
+    border: 5px solid #244624;
+    border-radius: 15px;
+}
+button{
+    font-size: 23px;
+    color:white;
+    background-color: black;
+    width: 102px;
+    height: 58px;
+    border-radius: 20px;
+}
+.calculator{
+    background-color: gray;
+    display: inline-block;
+    padding: 23px;
+    border-radius: 25px;
+}
